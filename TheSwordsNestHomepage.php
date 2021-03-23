@@ -111,7 +111,7 @@
 			  <div class="form-group">
 				<label for="logInEmail">Email address</label>
 				<input type="email" class="form-control" id="logInEmail" aria-describedby="emailHelp" required>
-				<small id="emailHelp" class="form-text text-muted">(Michael, just write any valid Email, e.g. a@a.com)</small>
+				<small id="emailHelp" class="form-text text-muted">(Just write any valid Email, e.g. a@a.com)</small>
 			  </div>
 			  <div class="form-group">
 				<label for="logInPassword">Password</label>
