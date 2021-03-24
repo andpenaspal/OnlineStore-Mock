@@ -8,7 +8,7 @@
 The Swords Nest
 
 ## Summary
-Mock Online Store Website that sells epic fantasy books.
+Mock Online Store Website that sells epic fantasy books. The data is stored in a MySQL Database and accessed through PHP.
 
 ## Technologies
 HTML, JavaScript, CSS, PHP, SQL
